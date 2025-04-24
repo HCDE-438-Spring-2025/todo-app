@@ -13,8 +13,9 @@ A simple Todo application built with React to demonstrate core React concepts. T
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone git@github.com:HCDE-438-Spring-2025/todo-app.git
 cd todo-app
+git checkout -b in_class_activity
 ```
 
 2. Install dependencies
