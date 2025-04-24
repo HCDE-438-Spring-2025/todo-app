@@ -1,0 +1,12 @@
+.todo-list {
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1.5rem;
+  }
+  
+  .empty-message {
+    text-align: center;
+    padding: 1.5rem;
+    color: #999;
+  }
