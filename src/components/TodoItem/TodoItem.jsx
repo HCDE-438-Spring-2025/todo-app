@@ -14,6 +14,7 @@ const TodoItem = function TodoItem({ todo, toggleTodo, deleteTodo }) {
       >
         {todo.text}
       </span>
+      <span className="todo-category">{todo.category}</span>
       <button 
         onClick={() => deleteTodo(todo.id)}
         className="delete-button"
